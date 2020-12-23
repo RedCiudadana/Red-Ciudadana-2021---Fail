@@ -152,7 +152,7 @@ dl, dt, dd, ol, ul, li {
 
 ::selection {
 	background: #1ABC9C;
-	color: #FFF;
+	color: #555
 	text-shadow: none;
 }
 
@@ -16818,6 +16818,13 @@ label.checkbox { padding-left: 20px; }
   font-size: 12px;
   margin-left: 10px;
   margin-right: 10px
+}
+
+.cuadroG{
+  background-color: #ccc;
+  color: #fff;
+  padding: 0.5rem 2rem;	
+  margin: 1rem 0 1rem 0;
 }
 /*TABLA*/
 
