@@ -3695,7 +3695,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 
 .menu-item:hover > .menu-link,
 .menu-item.current > .menu-link {
-	color: #555555;
+	color: orange;
 }
 
 .menu-item.sub-menu > .menu-link > div { }
@@ -3723,7 +3723,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 
 .sub-menu-container .menu-item:hover > .menu-link {
 	font-weight: 700;
-	color: #555555;
+	color: orange;
 	display: inline-block;
 }
 
