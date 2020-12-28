@@ -16809,6 +16809,17 @@ label.checkbox { padding-left: 20px; }
   font-size: 12px;
 }
 
+.btnAzulO{	
+  border:1.4px solid white;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0.5rem 2rem;	
+  color: #fff;
+  background-color: #07334d;
+  border-color: #07334d;
+  font-size: 12px;
+}
+
 .btnNaranja{
   border:1.4px solid white;
   border-radius: 20px;
